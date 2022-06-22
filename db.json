@@ -17,13 +17,69 @@
     {
       "user": "test2@gmail.com",
       "fav": {
-        "products": []
+        "products": [
+          {
+            "item": {
+              "id": 5,
+              "image": [
+                "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+                "https://images.wbstatic.net/big/new/24570000/24578498-1.jpg",
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+                "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg"
+              ],
+              "colors": ["red", "orange", "blue", "black", "green"],
+              "color": "black",
+              "title": "Вечернее платье",
+              "price": 1365,
+              "article": "Платье PL984/dakota",
+              "oldprice": 2730,
+              "discount": 25,
+              "description": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.  ",
+              "material": "Полиэстер ",
+              "textile": "волокна",
+              "collection": "Платья",
+              "type": "hit"
+            }
+          }
+        ]
       },
       "cart": {
-        "products": [],
-        "totalCount": 0,
-        "totalOldPrice": 0,
-        "totalCurrentPrice": 0
+        "products": [
+          {
+            "item": {
+              "id": 5,
+              "image": [
+                "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+                "https://images.wbstatic.net/big/new/24570000/24578498-1.jpg",
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+                "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg"
+              ],
+              "colors": ["red", "orange", "blue", "black", "green"],
+              "color": "black",
+              "title": "Вечернее платье",
+              "price": 1365,
+              "article": "Платье PL984/dakota",
+              "oldprice": 2730,
+              "discount": 25,
+              "description": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.  ",
+              "material": "Полиэстер ",
+              "textile": "волокна",
+              "collection": "Платья",
+              "type": "hit"
+            },
+            "count": 1,
+            "id": 5,
+            "color": "black",
+            "currentSubPrice": 1365,
+            "oldSubPrice": 2730
+          }
+        ],
+        "totalCount": 1,
+        "totalOldPrice": 2730,
+        "totalCurrentPrice": 1365,
+        "totalcolors": ["black"]
       },
       "orderHistory": [],
       "id": 3
@@ -36,19 +92,13 @@
             "item": {
               "id": 4,
               "image": [
-                "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-                "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-                "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
+                "https://images.wbstatic.net/c516x688/new/4380000/4389994-1.jpg",
                 "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-                "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+                "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+                "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg"
               ],
-              "colors": [
-                "red",
-                "orange",
-                "blue",
-                "black",
-                "green"
-              ],
+              "colors": ["red", "orange", "blue", "black", "green"],
               "color": "blue",
               "title": "Повседневное платье",
               "price": 1365,
@@ -93,19 +143,13 @@
     {
       "id": 3,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg"
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "orange",
       "title": "Платье из кожи",
       "price": 1365,
@@ -120,19 +164,13 @@
     {
       "id": 4,
       "image": [
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "blue",
       "title": "Повседневное платье",
       "price": 1365,
@@ -149,17 +187,11 @@
       "image": [
         "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
         "https://malinka-fashion.ru/images/products/4b/96/product_add_pic_50595.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
         "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "red",
       "title": "Платье",
       "price": 1365,
@@ -176,17 +208,11 @@
       "image": [
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/24570000/24578498-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg"
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "black",
       "title": "Вечернее платье",
       "price": 1365,
@@ -203,18 +229,12 @@
       "id": 1,
       "image": [
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "green",
       "title": "Nike",
       "price": 1365,
@@ -231,18 +251,12 @@
       "id": 6,
       "image": [
         "https://images.wbstatic.net/big/new/40170000/40170987-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "red",
       "title": "Adidas",
       "price": 1365,
@@ -257,19 +271,13 @@
     {
       "id": 7,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
         "https://lluk.ru/storage/products/175/10611/10611_737_1.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg"
+        "https://images.wbstatic.net/c516x688/new/4380000/4389994-1.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "orange",
       "title": "Puma",
       "price": 1365,
@@ -285,18 +293,12 @@
       "id": 8,
       "image": [
         "https://images.wbstatic.net/big/new/31890000/31891216-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "blue",
       "title": "New balance",
       "price": 1365,
@@ -312,18 +314,12 @@
       "id": 9,
       "image": [
         "https://autogear.ru/misc/i/gallery/44565/2374333.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "black",
       "title": "Zark",
       "price": 1365,
@@ -340,18 +336,12 @@
       "id": 10,
       "image": [
         "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "green",
       "title": "Вечернее платье",
       "price": 1365,
@@ -367,18 +357,12 @@
       "id": 11,
       "image": [
         "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "red",
       "title": "Вечернее платье",
       "price": 1365,
@@ -396,17 +380,11 @@
       "image": [
         "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
         "https://malinka-fashion.ru/images/products/4b/96/product_add_pic_50595.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
         "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "orange",
       "title": "Вечернее платье",
       "price": 1365,
@@ -421,19 +399,13 @@
     {
       "id": 13,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg"
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6,",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "blue",
       "title": "Вечернее платье",
       "price": 1365,
@@ -449,19 +421,13 @@
     {
       "id": 14,
       "image": [
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "black",
       "title": "Вечернее платье",
       "price": 1365,
@@ -478,17 +444,11 @@
       "image": [
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/24570000/24578498-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg"
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "green",
       "title": "Вечернее платье",
       "price": 1365,
@@ -505,18 +465,12 @@
       "id": 16,
       "image": [
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "red",
       "title": "Вечернее платье",
       "price": 1365,
@@ -533,18 +487,12 @@
       "id": 17,
       "image": [
         "https://images.wbstatic.net/big/new/40170000/40170987-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "orange",
       "title": "Вечернее платье",
       "price": 1365,
@@ -559,19 +507,13 @@
     {
       "id": 18,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
         "https://lluk.ru/storage/products/175/10611/10611_737_1.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg"
+        "https://images.wbstatic.net/c516x688/new/4380000/4389994-1.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "blue",
       "title": "Вечернее платье",
       "price": 1365,
@@ -587,18 +529,12 @@
       "id": 19,
       "image": [
         "https://images.wbstatic.net/big/new/31890000/31891216-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "black",
       "title": "Вечернее платье",
       "price": 1365,
@@ -614,18 +550,12 @@
       "id": 20,
       "image": [
         "https://autogear.ru/misc/i/gallery/44565/2374333.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "green",
       "title": "Вечернее платье",
       "price": 1365,
@@ -642,18 +572,12 @@
       "id": 21,
       "image": [
         "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "red",
       "title": "Вечернее платье",
       "price": 1365,
@@ -669,18 +593,12 @@
       "id": 22,
       "image": [
         "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
+        "https://images.wbstatic.net/big/new/4380000/4389985-2.jpg",
+        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
         "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
       ],
-      "colors": [
-        "red",
-        "orange",
-        "blue",
-        "black",
-        "green"
-      ],
+      "colors": ["red", "orange", "blue", "black", "green"],
       "color": "green",
       "title": "Вечернее платье",
       "price": 1365,
@@ -728,7 +646,7 @@
         "text2": "ipsum",
         "text3": "lorem lorem",
         "text4": "ipsum ipsum",
-        "img": "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
+        "img": "https://images.wbstatic.net/big/new/12870000/12876578-1.jpg",
         "discount": 30
       },
       {
@@ -737,7 +655,7 @@
         "text2": "ipsum",
         "text3": "lorem lorem",
         "text4": "ipsum ipsum",
-        "img": "https://malinka-fashion.ru/images/products/47/4b/product_img_15649.jpg",
+        "img": "https://images.wbstatic.net/c516x688/new/4380000/4389994-1.jpg",
         "discount": 50
       }
     ]
@@ -769,10 +687,10 @@
       "id": 2,
       "collection": "осень",
       "image": [
-        "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -786,10 +704,10 @@
     {
       "id": 3,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369362655952926/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369362655952926/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369362655952926/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369362655952926/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -804,10 +722,10 @@
     {
       "id": 4,
       "image": [
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -822,10 +740,10 @@
     {
       "id": 5,
       "image": [
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://images.wbstatic.net/big/new/24570000/24578498-1.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -840,10 +758,10 @@
     {
       "id": 1,
       "image": [
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -858,10 +776,10 @@
     {
       "id": 6,
       "image": [
-        "https://images.wbstatic.net/big/new/40170000/40170987-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -876,10 +794,10 @@
     {
       "id": 7,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://lluk.ru/storage/products/175/10611/10611_737_1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -894,10 +812,10 @@
     {
       "id": 8,
       "image": [
-        "https://images.wbstatic.net/big/new/31890000/31891216-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -912,10 +830,10 @@
     {
       "id": 9,
       "image": [
-        "https://autogear.ru/misc/i/gallery/44565/2374333.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369430347808818/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -930,10 +848,10 @@
     {
       "id": 10,
       "image": [
-        "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -948,10 +866,10 @@
     {
       "id": 11,
       "image": [
-        "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -967,10 +885,10 @@
       "id": 12,
       "collection": "осень",
       "image": [
-        "https://images.wbstatic.net/big/new/10140000/10149773-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://cdn.dressa.ru/ostrov-cache/sylius_medium/8f/seryy-sarafan-iz-tvida-v-kletku-c-karmanami-41593-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -984,10 +902,10 @@
     {
       "id": 13,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -1002,10 +920,10 @@
     {
       "id": 14,
       "image": [
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg",
-        "https://lluk.ru/storage/products/175/10611/10611_737_1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369314194980924/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -1020,10 +938,10 @@
     {
       "id": 15,
       "image": [
-        "https://images.wbstatic.net/big/new/31890000/31891216-1.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png",
+        "https://cdn.discordapp.com/attachments/979364144170041408/979369472538320916/unknown.png"
       ],
       "title": "Вечернее платье",
       "price": 1365,
@@ -1034,24 +952,6 @@
       "textile": "волокна",
       "collection": "Для походов",
       "type": "hit"
-    },
-    {
-      "id": 16,
-      "image": [
-        "https://autogear.ru/misc/i/gallery/44565/2374333.jpg",
-        "https://raslov.ua/wp-content/uploads/2020/10/img_8823.jpg",
-        "https://images.wbstatic.net/big/new/4380000/4389985-1.jpg",
-        "https://images.wbstatic.net/big/new/10940000/10941113-6.jpg"
-      ],
-      "title": "Вечернее платье",
-      "price": 1365,
-      "oldprice": 0,
-      "discount": 25,
-      "description": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.  ",
-      "material": "Полиэстер ",
-      "textile": "волокна",
-      "collection": "весна",
-      "type": "novinka"
     }
   ],
   "about": {
